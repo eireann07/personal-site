@@ -1,0 +1,163 @@
+a{
+  color: #789395;
+  font-family: 'Cabin', sans-sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #F7F7E8;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Serif', serif;
+}
+
+h1{
+  color: #557174;
+  font-family: 'Stalemate', cursor;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+}
+
+h2{
+  color: #557174;
+  font-family: 'Cabin', sans-sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #789395;
+  font-family: 'Cabin', sans-sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #B4CFB0;
+  border-width: 5px;
+  width: 3%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+p{
+  line-height: 2;
+  color: #40514E;
+}
+
+.attributions{
+  color: #789395;
+  font-size: x-small;
+}
+
+.bottom-flower{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  width: 8%;
+  margin-bottom: 80px;
+}
+
+.bottom-container{
+  background-color: #94B49F;
+  padding: 30px 0 20px;
+}
+
+.btn{
+  background: #B4CFB0;
+  background-image: -webkit-linear-gradient(top, #B4CFB0, #94B49F);
+  background-image: -moz-linear-gradient(top, #B4CFB0, #94B49F);
+  background-image: -ms-linear-gradient(top, #B4CFB0, #94B49F);
+  background-image: -o-linear-gradient(top, #B4CFB0, #94B49F);
+  background-image: linear-gradient(to bottom, #B4CFB0, #94B49F);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Cabin', sans-sans-serif;
+  color: #F7F7E8;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #94B49F;
+  background-image: -webkit-linear-gradient(top, #94B49F, #789395);
+  background-image: -moz-linear-gradient(top, #94B49F, #789395);
+  background-image: -ms-linear-gradient(top, #94B49F, #789395);
+  background-image: -o-linear-gradient(top, #94B49F, #789395);
+  background-image: linear-gradient(to bottom, #94B49F, #789395);
+  text-decoration: none;
+}
+
+.coding{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.compentencies{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+  line-height: 2;
+}
+
+.copyright{
+  color: #E5E3C9;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.iris{
+  height: 20%;
+  width: 20%;
+  margin-top: 75px;
+}
+
+.middle-container{
+  background-color: #F7F7E8;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.o-skills{
+  margin-top: 80px;
+}
+
+.profile{
+  margin: auto;
+  width: 25%;
+  padding-top: 75px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container{
+  background-color: #C1CFC0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-flower{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 8%;
+}
